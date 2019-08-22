@@ -6,7 +6,9 @@
     "background":{
         "scripts": ["redirect.js"]
     },
+    "options_page": "options.html",
     "permissions":[ 
+        "storage",
         "webRequest",
         "webRequestBlocking",
         "*://www.reddit.com/*"]
