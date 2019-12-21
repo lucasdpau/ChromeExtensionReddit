@@ -11,5 +11,5 @@
         "storage",
         "webRequest",
         "webRequestBlocking",
-        "*://www.reddit.com/*"]
+        "*://*.reddit.com/*"]
 }
